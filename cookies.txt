@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.wynncraft.com	TRUE	/	FALSE	1999999999	__cfduid	ddf727d08f9af3128c10e1488cfca3e321555238655
-
